@@ -45,4 +45,5 @@ Sou apaixonada por tecnologia e por criar interfaces que unem design e funcional
 
 ### 📊 Estatísticas do GitHub
 
-[![Thayane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thay2512&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=Thay2512&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/Thay2512?style=for-the-badge&color=blueviolet)
