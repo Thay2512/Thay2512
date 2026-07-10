@@ -43,7 +43,3 @@ Sou apaixonada por tecnologia e por criar interfaces que unem design e funcional
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Profile Views](https://komarev.com/ghpvc/?username=Thay2512&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/Thay2512?style=for-the-badge&color=blueviolet)
